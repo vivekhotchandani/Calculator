@@ -1,0 +1,18 @@
+.root {
+    -fx-font-size: 12pt;
+    -fx-font-family: "Arial";
+}
+
+.label {
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #000000;
+    -fx-padding: 5px 15px;
+}
+
+.text-field {
+    -fx-effect: dropshadow(gaussian, grey, 50, 0, 0, 1);
+}
